@@ -1,5 +1,5 @@
 # e-voting-system-blockchain
-
+A e-voting system desinged using ethereum bloackchain and javascript.
 
 # SCREENSHOTS:
 ![](screenshots/p1.png)
