@@ -1,4 +1,4 @@
-# e-voting-system-blockchain
+# e-voting-system-using-blockchain
 A e-voting system desinged using ethereum blockchain and javascript.
 
 # SCREENSHOTS:
