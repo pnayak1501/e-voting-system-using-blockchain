@@ -40,16 +40,17 @@ The first block is the foundation block which contains candidate’s name. This 
 
 # TOOLS IDENTIFIED FOR DOMAIN	
 Solidity is one of the most popular languages used by Blockchain Developers. Influenced by C++, Python, and JavaScript, it was designed to target the Ethereum Virtual Machine(EVM). Solidity is statically typed, supports inheritance, libraries, and complex user-defined types.  By using Solidity a user can do the following:
-  Mine ether tokens
-  Transfer tokens between addresses
-  Create smart contracts and execute it on the Ethereum Virtual Machine
-  Explore the block history
+  1. Mine ether tokens
+  2. Transfer tokens between addresses
+  3. Create smart contracts and execute it on the Ethereum Virtual Machine
+  4. Explore the block history
 Solidity supports the OOP paradigm and is most commonly used for writing smart contracts. With Solidity, Blockchain Developers can write applications that can execute self-enforcing business logic embodied in smart contracts, thereby leaving a non-repudiable, and authoritative record of transactions. This comes in handy for creating contracts for voting, crowdfunding, multi-signature wallets, and blind auctions.
 
 # ARCHITECTURE
+![](screenshots/arch.png)
 
 # FLOWCHART
-
+![](screenshots/flow.png)
 
 # ADVANTAGES
 Advantages of e-voting system using blockchain below:
