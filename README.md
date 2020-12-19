@@ -36,7 +36,7 @@ The first block is the foundation block which contains candidate’s name. This 
     (i) Vote for a candidate
     (ii) Cast a blank vote  
 3. After the user casts his vote, the system will generate an input that contains the voter identification and the hash of the previous vote. This way each input will be unique and ensure that the encrypted output will be unique as well. The encrypted information will be recorded in the block header of each vote cast. It can be encrypted using SHA-256 in which reverse string cannot be generated. Therefore there is no way to retrieve voter’s information.
-4.    Once the block is created the information is recorded in corresponding blockchain and gets linked with previously cast vote
+4. Once the block is created the information is recorded in corresponding blockchain and gets linked with previously cast vote.
 
 # TOOLS IDENTIFIED FOR DOMAIN	
 Solidity is one of the most popular languages used by Blockchain Developers. Influenced by C++, Python, and JavaScript, it was designed to target the Ethereum Virtual Machine(EVM). Solidity is statically typed, supports inheritance, libraries, and complex user-defined types.  By using Solidity a user can do the following:
@@ -44,6 +44,7 @@ Solidity is one of the most popular languages used by Blockchain Developers. Inf
   2. Transfer tokens between addresses
   3. Create smart contracts and execute it on the Ethereum Virtual Machine
   4. Explore the block history
+  
 Solidity supports the OOP paradigm and is most commonly used for writing smart contracts. With Solidity, Blockchain Developers can write applications that can execute self-enforcing business logic embodied in smart contracts, thereby leaving a non-repudiable, and authoritative record of transactions. This comes in handy for creating contracts for voting, crowdfunding, multi-signature wallets, and blind auctions.
 
 # ARCHITECTURE
