@@ -1,6 +1,13 @@
 # e-voting-system-using-blockchain
 A e-voting system desinged using ethereum blockchain and javascript.
 
+# SCREENSHOTS
+![](screenshots/p1.png)
+![](screenshots/p2.png)
+![](screenshots/p3.png)
+![](screenshots/p4.png)
+![](screenshots/p5.png)
+
 # PROBLEM STATEMENT
 1.We are facing a lot of problems in our day to day life for example, Democratic voting is a crucial and serious event in any country. The most common way in which a country votes is through a paper based system.But with  the use of blockchains a secure and robust system for 4 digital voting can be devised. This report outlines our idea of how blockchain technology could be used to implement a secure digital voting system. 
 2.After the first point that refers to ideality of problem statement we should now see its reality so nowadays blockchain is used Blockchain has often been described as a solution in search of problem, but the technology is slowly moving out of research labs and into real-world applications to creating a growing global market that Research and Markets expects to rise from $80 million this year to more than $2.3 billion by 2023.
@@ -60,13 +67,6 @@ Advantages of e-voting system using blockchain below:
 * Immutable
 * Faster
 * Transparent
-
-# SCREENSHOTS
-![](screenshots/p1.png)
-![](screenshots/p2.png)
-![](screenshots/p3.png)
-![](screenshots/p4.png)
-![](screenshots/p5.png)
 
 # REFERENCES
 https://libres.uncg.edu/ir/uncg/f/N_Kshetri_Blockchain_Enabled_2018.pdf
