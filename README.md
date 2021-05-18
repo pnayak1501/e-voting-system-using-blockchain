@@ -70,7 +70,7 @@ Advantages of e-voting system using blockchain below:
 
 # REFERENCES
 https://libres.uncg.edu/ir/uncg/f/N_Kshetri_Blockchain_Enabled_2018.pdf
-https://www.researchgate.net/profile/Umut_Cabuk/publication/323318041_Towards_Secure_E-Voting_Using_Ethereum_Blockchain/links/5a931e2faca272140565c7e4/Towards-Secure-E-Voting-Using-Ethereum-Blockchain.pdf
+https://www.researchgate.net/profile/Umut_Cabuk/publication/323318041_Towards_Secure_E-Voting_Using_Ethereum_Blockchain/links/5a931e2faca272140565c7e4/Towards-Secure-E-Voting-Using-Ethereum-Blockchain.pdf <br>
 https://skemman.is/bitstream/1946/31161/1/Research-Paper-BBEVS.pdf
 http://budi.rahardjo.id/files/students/rifa/paper.pdf
 https://pdfs.semanticscholar.org/7e8d/c5b93a2ff6fcb4a986e89d23add04f9ac27e.pdf
